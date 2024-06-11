@@ -2,6 +2,7 @@
 
 2005年誕<br>
 武蔵野大学データサイエンス学部5期生27卒<br>
+インターンで腰を痛める限界大学生<br>
 授業での取り扱い内容-sklearn,matplotlib,tensorflowなど<br>
 contact renax749@gmail.com
 

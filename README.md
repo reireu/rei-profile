@@ -3,6 +3,7 @@
 2005年誕<br>
 武蔵野大学データサイエンス学部5期生27卒<br>
 授業での取り扱い内容-sklearn,matplotlib,tensorflowなど<br>
+contact renax749@gmail.com
 
 サークル　<br>
 武蔵野大学公認プログラミングサークルBohpj(2023.4~)<br>

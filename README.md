@@ -1,20 +1,55 @@
-# About me
+# Serena Kurashina / 倉科世玲菜
 
-2005年誕<br>
-武蔵野大学データサイエンス学部5期生27卒<br>
-インターンで腰を痛める限界大学生<br>
-授業での取り扱い内容-sklearn,matplotlib,tensorflowなど<br>
-contact renax749@gmail.com
+![Profile](https://avatars.githubusercontent.com/u/your-github-id?s=120) <!-- 画像は適宜変更してください -->
+[![Visits Badge](https://badges.pufler.dev/visits/reireu/rei-profile)](https://github.com/reireu/rei-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-reireu.github.io-blue?logo=github)](https://reireu.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SerenaKurashina-blue?logo=linkedin)](https://www.linkedin.com/in/世玲菜-倉科-821890364/)
 
-サークル　<br>
-武蔵野大学公認プログラミングサークルBohpj(2023.4~)<br>
-早稲田大学ITサークルwill(2024.5~)所属<br>
-フルスタックエンジニア目指してますが実態はかなりのよわよわ、やる気だけ満ち溢れています。<br>
+---
 
-# Event <br>
-Xhackathon　1dayハッカソンMVP
+## 🌸 Profile / プロフィール
 
-# job
-大阪焼肉ふたご　アルバイト（2024.2 ~ 2024.9）<br>
-まなびの森麻布（麻布十番）インターン(2024.6~2025.2)
+- 2005年生まれ / Born in 2005
+- 武蔵野大学データサイエンス学部 27卒
+- プログラミング/教育/NPO活動が好き
+- 英語（B1）、中国語（会話可）、フランス語（勉強中）、その他アフリカ言語
 
+---
+
+## 🏆 Awards / 受賞歴
+
+- X Hackathon MVP（2024）
+  - [証明リンク](https://vcs.sakazuki.xyz/career-credentials/clu3y05sy000ks601gz3iht75)
+
+---
+
+## 💻 Skills / スキル
+
+| 言語・技術      | レベル         |
+|:--------------|:--------------|
+| Python        | ★★☆☆☆ |
+| HTML/CSS      | ★★☆☆☆ |
+| JavaScript    | ★☆☆☆☆ |
+| Ruby          | ★☆☆☆☆ |
+
+---
+
+## 📫 Contact / 連絡先
+
+- GitHub: [reireu](https://github.com/reireu)
+- LinkedIn: [世玲菜-倉科](https://www.linkedin.com/in/世玲菜-倉科-821890364/)
+- Email: renax749@gmail.com
+
+---
+
+## 🌍 Activities / 課外活動
+
+- NGO Koinnonia Centre（ケニア、教育支援）
+- まなびの森麻布 保育補助インターン（2024.9-2025.2）
+- 港区20歳のつどい実行委員（2024.9-2025.1）
+
+---
+
+## 🏢 Jobs / アルバイト・インターン
+
+- まなびの森麻布（2024.6 - 2025.2）

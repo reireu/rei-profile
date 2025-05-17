@@ -55,3 +55,4 @@
 - まなびの森麻布（2024.6 - 2025.2）
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reireu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reireu&layout=compact)

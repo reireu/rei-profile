@@ -1,6 +1,5 @@
 # Serena Kurashina / 倉科世玲菜
 
-![Profile](https://avatars.githubusercontent.com/u/your-github-id?s=120) <!-- 画像は適宜変更してください -->
 [![Visits Badge](https://badges.pufler.dev/visits/reireu/rei-profile)](https://github.com/reireu/rei-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-reireu.github.io-blue?logo=github)](https://reireu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SerenaKurashina-blue?logo=linkedin)](https://www.linkedin.com/in/世玲菜-倉科-821890364/)

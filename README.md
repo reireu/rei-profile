@@ -8,6 +8,7 @@
 
 ## 🌸 Profile / プロフィール
 
+- ピアノと読書が好きです。3ヶ月に一回ぐらい1万字行かない程度の話を書きます。/ I love to play the piano and reading book.
 - 2005年生まれ / Born in 2005
 - 武蔵野大学データサイエンス学部 27卒 / Learning datascience in Musashino University
 - その他国際法、経済学勉強中 / Studying international law and economic by myself

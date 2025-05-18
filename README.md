@@ -61,5 +61,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reireu&layout=compact)
 
-![Snake animation](https://raw.githubusercontent.com/reireu/reireu/output/github-contribution-grid-snake.svg)
-

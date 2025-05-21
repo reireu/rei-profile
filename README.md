@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/reireu/rei-profile)](https://github.com/reireu/rei-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-reireu.github.io-blue?logo=github)](https://reireu.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SerenaKurashina-blue?logo=linkedin)](https://www.linkedin.com/in/世玲菜-倉科-821890364/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SerenaKurashina-blue?logo=linkedin)](www.linkedin.com/in/serena-kurashina-7aa03a362/)
 
 ---
 

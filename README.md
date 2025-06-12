@@ -8,7 +8,7 @@
 
 ## 🌸 Profile / プロフィール
 
-- ピアノと読書が好きです。3ヶ月に一回ぐらい1万字行かない程度の話を書きます。/ I love to play the piano and reading book.
+- ピアノと読書が好きです。3ヶ月に一回ぐらい1万字行かない程度の話を書きます。最近はバスケもしてます。/ I love to play the piano and reading book.I started basketball recently.(June/13/2025)
 - 2005年生まれ / Born in 2005
 - 武蔵野大学データサイエンス学部 27卒 / Learning datascience in Musashino University
 - その他国際法、経済学勉強中 / Studying international law and economic by myself
@@ -26,12 +26,14 @@
 
 ## 💻 Skills / スキル
 
-| 言語・技術      | レベル         |
+| 言語・技術      | 自己評価        |
 |:--------------|:--------------|
-| Python        | ★★☆☆☆ |
-| HTML/CSS      | ★★☆☆☆ |
-| JavaScript    | ★☆☆☆☆ |
-| Ruby          | ★☆☆☆☆ |
+| Git/Github    | 50 |
+| Python        | 40 |
+| HTML/CSS      | 40 |
+| Dart          | 20 |
+| JavaScript    | 20 |
+| Ruby          | 15 |
 
 ---
 
@@ -60,4 +62,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reireu&layout=compact)
-

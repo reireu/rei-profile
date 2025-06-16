@@ -45,7 +45,7 @@
 ## 📫 Contact / 連絡先
 
 - GitHub: [reireu](https://github.com/reireu)
-- LinkedIn: [kurashina serena]([https://www.linkedin.com/in/世玲菜-倉科-821890364/](https://www.linkedin.com/in/serena-kurashina-7aa03a362/))
+- LinkedIn: [kurashina-serena]([https://www.linkedin.com/in/世玲菜-倉科-821890364/](https://www.linkedin.com/in/serena-kurashina-7aa03a362/))
 - Email: renax749@gmail.com
 
 ---

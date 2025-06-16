@@ -8,6 +8,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Math-blue?logo=numpy)
 ![Learning](https://img.shields.io/badge/Learning-Deep%20Learning-green)
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
+![Last commit](https://img.shields.io/github/last-commit/reireu/rei-profile)
 ---
 
 ## 🌸 Profile / プロフィール
@@ -62,9 +63,8 @@
 - まなびの森麻布（2024.6 - 2025.2）
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reireu&show_icons=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reireu&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=reireu&theme=tokyonight)
 
-![Last commit](https://img.shields.io/github/last-commit/reireu/rei-profile)
+

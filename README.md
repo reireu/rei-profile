@@ -3,7 +3,11 @@
 [![Visits Badge](https://badges.pufler.dev/visits/reireu/rei-profile)](https://github.com/reireu/rei-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-reireu.github.io-blue?logo=github)](https://reireu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SerenaKurashina-blue?logo=linkedin)](https://www.linkedin.com/in/serena-kurashina-7aa03a362/)
-
+[![Python](https://img.shields.io/badge/Python-Data%20Science-informational?logo=python)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+[![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Math-blue?logo=numpy)
+[![Learning](https://img.shields.io/badge/Learning-Deep%20Learning-green)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
 ---
 
 ## 🌸 Profile / プロフィール

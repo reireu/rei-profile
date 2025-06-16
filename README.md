@@ -34,12 +34,16 @@
 | 言語・技術      | 自己評価        |
 |:--------------|:--------------|
 | Git/Github    | 50 |
-| Python        | 40 |[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/reireu/werewolves)
-| HTML/CSS      | 40 |[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/reireu/reireu.github.io)
-| Dart          | 20 |[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/reireu/BoldChinese)
+| Python        | 40 |
+| HTML/CSS      | 40 |
+| Dart          | 20 |
 | JavaScript    | 20 |
-| Ruby          | 15 |[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/reireu/ruby_class_practice_zakkuri)
+| Ruby          | 15 |
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/reireu/werewolves)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/reireu/reireu.github.io)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/reireu/BoldChinese)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/reireu/ruby_class_practice_zakkuri)
 
 ---
 

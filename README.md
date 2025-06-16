@@ -34,7 +34,7 @@
 | 言語・技術      | 自己評価        |
 |:--------------|:--------------|
 | Git/Github    | 50 |
-| Python        | 40 |
+| Python        | 40 |[![Python](https://img.shields.io/badge/Python-3776AB?style=for-theーbadge&logo=python&logoColor=white)]([https://github.com/reireu/my-python-project](https://github.com/reireu/werewolves)
 | HTML/CSS      | 40 |
 | Dart          | 20 |
 | JavaScript    | 20 |

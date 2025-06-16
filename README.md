@@ -66,3 +66,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reireu&layout=compact)
+
+![Last commit](https://img.shields.io/github/last-commit/reireu/rei-profile)

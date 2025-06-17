@@ -8,7 +8,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Math-blue?logo=numpy)
 ![Learning](https://img.shields.io/badge/Learning-Deep%20Learning-green)
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
-![Last commit](https://img.shields.io/github/last-commit/reireu/rei-profile)
+![Last commit](https://img.shields.io/github/last-commit/reireu)
 ---
 
 ## 🌸 Profile / プロフィール

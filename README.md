@@ -1,6 +1,5 @@
 # Serena Kurashina / 倉科世玲菜
 
-[![Visits Badge](https://badges.pufler.dev/visits/reireu/rei-profile)](https://github.com/reireu/rei-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-reireu.github.io-blue?logo=github)](https://reireu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SerenaKurashina-blue?logo=linkedin)](https://www.linkedin.com/in/serena-kurashina-7aa03a362/)
 ![Python](https://img.shields.io/badge/Python-Data%20Science-informational?logo=python)

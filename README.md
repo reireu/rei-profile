@@ -16,6 +16,7 @@
 - 2005年生まれ / Born in 2005
 - 武蔵野大学データサイエンス学部 27卒 / Learning datascience in Musashino University
 - その他国際法、経済学勉強中 / Studying international law and economic by myself
+- 日本語母語者、英語早期バイリンガル者 / My mother tongue is Japanese, and I also grew up as an early bilingual, English and Japanese
 - 英語（英検2級）、中国語、フランス語（会話可）、その他アフリカ言語　/ English(CFRA B1),Chinese,French(Casual conversation),Bengali,Swahili,Tswana(Begginer)
 
 

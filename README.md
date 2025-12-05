@@ -18,16 +18,16 @@
 - その他国際法、経済学勉強中 / Studying international law and economic by myself
 - 日本語母語者、英語早期バイリンガル者 / My mother tongue is Japanese, and I also grew up as an early bilingual, English and Japanese
 - 英語（英検2級）、中国語、フランス語（会話可）、その他アフリカ言語　/ English(CFRA B1),Chinese,French(Casual conversation),Bengali,Swahili,Tswana(Begginer)
-- 日本化粧品検定3級合格　/ JAPAN COSMETIC LICENSE 3rd GRADE(December/2025)
-- Google アナリティクス認定資格 / Google Analytics Certification(December/2025)
 
 
 ---
 
-## 🏆 Awards / 受賞歴
+## 🏆 Awards / 資格、表彰
 
 - X Hackathon MVP（2024）
   - [証明リンク](https://vcs.sakazuki.xyz/career-credentials/clu3y05sy000ks601gz3iht75)
+- 日本化粧品検定3級合格　/ JAPAN COSMETIC LICENSE 3rd GRADE(December/2025)
+- Google アナリティクス認定資格 / Google Analytics Certification(December/2025)
 
 ---
 

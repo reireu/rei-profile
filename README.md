@@ -60,14 +60,10 @@
 ## 🌍 Activities / 課外活動
 
 - NGO Koinnonia Centre（ケニア、教育支援）
-- まなびの森麻布 保育補助インターン（2024.9-2025.2）
+- まなびの森麻布 保育補助インターン（2024.6-2025.2）
 - 港区20歳のつどい実行委員（2024.9-2025.1）
 
 ---
-
-## 🏢 Jobs / アルバイト・インターン
-
-- まなびの森麻布（2024.6 - 2025.2）
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reireu&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reireu&layout=compact)

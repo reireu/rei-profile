@@ -32,6 +32,7 @@
 - 化粧品成分検定3級 / Cosmetic Ingredient Certification 3rd Grade (December/2025)
 - 色彩士検定4級 /  COLOR MASTER (December/2025)
 - 食育イノベーター検定(December/2025)
+- 機能性フード検定(December/2025)
 - 青森りんご検定基礎編　/ Aomori Apple Certification (December/2025)
 - 【初級】ラーメニスト検定(December/2025)
 

@@ -35,6 +35,7 @@
 - 機能性フード検定(December/2025)
 - 青森りんご検定基礎編　/ Aomori Apple Certification (December/2025)
 - 昆布検定(December/2025)
+- カラアゲニスト認定(December/2025)
 - 【初級】ラーメニスト検定(December/2025)
 
 

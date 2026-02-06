@@ -55,7 +55,7 @@
 ## Portfolio / 世の中にデプロイしてるもの抜粋
 https://law-visualization.vercel.app/ <br>
 国際法の判例と、関連する国を地球儀で連動させている。<br>
-<img width="400" height="180" alt="スクリーンショット 2026-02-06 14 41 19" src="https://github.com/user-attachments/assets/da3d4298-4cf2-44d1-ab03-316a20e8d7c0" /> <br>
+<img width="400" height="230" alt="スクリーンショット 2026-02-06 14 41 19" src="https://github.com/user-attachments/assets/da3d4298-4cf2-44d1-ab03-316a20e8d7c0" /> <br>
 https://csv-converter-two.vercel.app/ <br>
 データ整形のお手伝いをしてくれる。<br>
 https://muds.gdl.jp/~s2322023/ <br>

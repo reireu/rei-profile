@@ -64,7 +64,7 @@
 - language without borders (2025.12-)
 
 ## Portfolio / 世の中にデプロイしてるもの抜粋
-https://csv-converter-two.vercel.app/　<br>
+https://csv-converter-two.vercel.app/ <br>
 データ整形のお手伝いをしてくれる。<br>
 https://muds.gdl.jp/~s2322023/ <br>
 徒歩での到着時間を、自分の歩行速度に調整することで、既存アプリよりもパーソナライズして教えてくれる。<br>

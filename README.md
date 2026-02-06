@@ -61,7 +61,7 @@
 - まなびの森麻布 保育補助、広報インターン（2024.6-2025.2）
 - 港区20歳のつどい実行委員　企画担当（2024.9-2025.1）
 - will 役職なし(2024.5-現在)
-- language without borders 立ち上げ人(2025.12-)
+- language without borders 立ち上げ人(2025.12-現在)
 
 ## Portfolio / 世の中にデプロイしてるもの抜粋
 https://csv-converter-two.vercel.app/ <br>

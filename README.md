@@ -34,18 +34,6 @@
 - X Hackathon MVP（2024）
   - [証明リンク](https://vcs.sakazuki.xyz/career-credentials/clu3y05sy000ks601gz3iht75)
 - Google アナリティクス認定資格 / Google Analytics Certification(December/2025)
-
-その他
-- 日本化粧品検定3級　/ JAPAN COSMETIC LICENSE 3rd GRADE (December/2025)
-- 化粧品成分検定3級 / Cosmetic Ingredient Certification 3rd Grade (December/2025)
-- 色彩士検定4級 /  COLOR MASTER (December/2025)
-- 食育イノベーター検定(December/2025)
-- 機能性フード検定(December/2025)
-- 青森りんご検定基礎編　/ Aomori Apple Certification (December/2025)
-- 昆布検定(December/2025)
-- カラアゲニスト認定(December/2025)
-- 【初級】ラーメニスト検定(December/2025)
-
 ---
 
 ## Contact / 連絡先

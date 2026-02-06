@@ -64,11 +64,11 @@
 - language without borders (2025.12-)
 
 ## Portfolio / 世の中にデプロイしてるもの抜粋
-https://csv-converter-two.vercel.app/
-データ整形のお手伝いをしてくれる。
-https://muds.gdl.jp/~s2322023/
-徒歩での到着時間を、自分の歩行速度に調整することで、既存アプリよりもパーソナライズして教えてくれる。
-https://law-visualization.vercel.app/
+https://csv-converter-two.vercel.app/　<br>
+データ整形のお手伝いをしてくれる。<br>
+https://muds.gdl.jp/~s2322023/ <br>
+徒歩での到着時間を、自分の歩行速度に調整することで、既存アプリよりもパーソナライズして教えてくれる。<br>
+https://law-visualization.vercel.app/ <br>
 国際法の判例と、関連する国を地球儀で連動させている。
 
 

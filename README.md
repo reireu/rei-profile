@@ -1,4 +1,4 @@
-# Serena Kurashina / 倉科世玲菜
+# Reireu / 倉科世玲菜
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-reireu.github.io-blue?logo=github)](https://reireu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SerenaKurashina-blue?logo=linkedin)](https://www.linkedin.com/in/serena-kurashina-7aa03a362/)
@@ -12,8 +12,15 @@
 
 ## 🌸 Profile / プロフィール
 
-- ピアノと読書が好きです。3ヶ月に一回ぐらい1万字行かない程度の話を書きます。最近はバスケもしてます。/ I love to play the piano and reading book.I started basketball recently.(June/13/2025)
+- データサイエンス。
+- LLMを支える機械学習、自然言語処理に興味関心
+- 同時にアプリ・サイト開発もわくわくする
 
+- willには2年の5月から
+- 3年12月から、フランス語の授業の終わりが見えてきたことを契機に言語学習インカレを立ち上げている
+
+- 機械学習の基礎的な知識、ならびにプログラミングは習得済み
+- 発想から文献調査、考察まで一通り一人でやった経験ならびに、チーム経験もそれなりの経験がある
 ---
 
 ## 🏆 Awards / 資格、表彰
@@ -37,7 +44,6 @@
 ## 📫 Contact / 連絡先
 
 - GitHub: [reireu](https://github.com/reireu)
-- LinkedIn: [kurashina-serena]([https://www.linkedin.com/in/世玲菜-倉科-821890364/](https://www.linkedin.com/in/serena-kurashina-7aa03a362/))
 - Email: renax749@gmail.com
 
 ---
@@ -48,12 +54,6 @@
 - まなびの森麻布 保育補助インターン（2024.6-2025.2）
 - 港区20歳のつどい実行委員（2024.9-2025.1）
 
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reireu&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reireu&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=reireu&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

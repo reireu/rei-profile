@@ -10,7 +10,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/reireu/rei-profile)
 ---
 
-## 🌸 Profile / プロフィール
+## Profile / プロフィール
 
 データサイエンス
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏆 Awards / 資格、表彰
+## Awards / 資格、表彰
 エンジニア系
 - X Hackathon MVP（2024）
   - [証明リンク](https://vcs.sakazuki.xyz/career-credentials/clu3y05sy000ks601gz3iht75)
@@ -48,20 +48,28 @@
 
 ---
 
-## 📫 Contact / 連絡先
+## Contact / 連絡先
 
 - GitHub: [reireu](https://github.com/reireu)
 - Email: renax749@gmail.com
 
 ---
 
-## 🌍 Activities / 課外活動
+## Activities / 課外活動
 
 - NGO Koinnonia Centre（2022.9-）
 - まなびの森麻布 保育補助インターン（2024.6-2025.2）
 - 港区20歳のつどい実行委員（2024.9-2025.1）
 - will (2024.5-現在)
 - language without borders (2025.12-)
+
+## Portfolio / 世の中にデプロイしてるもの抜粋
+https://csv-converter-two.vercel.app/
+データ整形のお手伝いをしてくれる。
+https://muds.gdl.jp/~s2322023/
+徒歩での到着時間を、自分の歩行速度に調整することで、既存アプリよりもパーソナライズして教えてくれる。
+https://law-visualization.vercel.app/
+国際法の判例と、関連する国を地球儀で連動させている。
 
 
 

@@ -51,14 +51,14 @@
 
 ## Portfolio / 世の中にデプロイしてるもの
 https://law-visualization.vercel.app/ <br>
-国際法の判例と、関連する国を地球儀で連動させている。<br>
+国際法の判例と、関連する国を地球儀で連動させています。<br>
 <img width="400" height="230" alt="スクリーンショット 2026-02-06 14 41 19" src="https://github.com/user-attachments/assets/da3d4298-4cf2-44d1-ab03-316a20e8d7c0" /> <br>
 https://csv-converter-two.vercel.app/ <br>
 データ整形のお手伝いをしてくれる。<br>
 https://muds.gdl.jp/~s2322023/ <br>
-徒歩での到着時間を、自分の歩行速度に調整することで、既存アプリよりもパーソナライズして教えてくれる。<br>
+徒歩での到着時間を、自分の歩行速度に調整することで、既存アプリよりもパーソナライズして教えてくれます。<br>
 https://fi-murex.vercel.app/ <br>
-英米アクセントの、話したい方面が定まってる時どのように発音したらいいかを確認できるアプリ。
+英米アクセントの、話したい方面が定まってる時どのように発音したらいいかを確認できるアプリです。
 
 
 

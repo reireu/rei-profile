@@ -60,7 +60,8 @@ https://csv-converter-two.vercel.app/ <br>
 データ整形のお手伝いをしてくれる。<br>
 https://muds.gdl.jp/~s2322023/ <br>
 徒歩での到着時間を、自分の歩行速度に調整することで、既存アプリよりもパーソナライズして教えてくれる。<br>
-
+https://fi-murex.vercel.app/ <br>
+英米アクセントの、話したい方面が定まってる時どのように発音したらいいかを確認できるアプリ。ChatGPTのログを濁したくない人（私）向け。
 
 
 

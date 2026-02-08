@@ -10,7 +10,6 @@ This repository contains my detailed profile, background, and deployed projects.
 ![Learning](https://img.shields.io/badge/Learning-Deep%20Learning-green)
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
 ![Last commit](https://img.shields.io/github/last-commit/reireu/rei-profile)
----
 
 ## Profile / プロフィール
 
@@ -27,21 +26,16 @@ This repository contains my detailed profile, background, and deployed projects.
 - マリ王国。現在は渡航危険レベル4に指定される最貧国の一角であるが、かつては資源と文化を兼ね備えた王都を有していた。現在も金の産出国である一方、不安定さゆえに外資が入りにくい点に経済学的な関心があります
 - 制度（法）や、財政状態（経理）などがデータや意思決定に与える影響
 
----
-
 ## Awards / 資格、表彰
 エンジニア系
 - X Hackathon MVP（2024）
   - [証明リンク](https://vcs.sakazuki.xyz/career-credentials/clu3y05sy000ks601gz3iht75)
 - Google アナリティクス認定資格 / Google Analytics Certification(December/2025)
----
 
 ## Contact / 連絡先
 
 - GitHub: [reireu](https://github.com/reireu)
 - Email: renax749@gmail.com
-
----
 
 ## Activities / 課外活動
 
